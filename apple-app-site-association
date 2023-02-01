@@ -1,2 +1,16 @@
-{"applinks":{"apps":[],"details":[{"appID":"3D76H78A32.com.purple.VRSP2P","paths":["NOT /_/*","/*"]}]}}
-111
+{
+   "applinks":{
+      "apps":[
+         
+      ],
+      "details":[
+         {
+            "appIDs": [ "3D76H78A32.com.purple.VRSP2P", "ZN2SEB8NY2.com.zvrs.z4" ]
+            "paths":[
+               "NOT /_/*",
+               "/*"
+            ]
+         }
+      ]
+   }
+}
